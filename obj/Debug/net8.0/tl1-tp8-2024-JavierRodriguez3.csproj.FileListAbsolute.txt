@@ -1,0 +1,15 @@
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\bin\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.exe
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\bin\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.deps.json
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\bin\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.runtimeconfig.json
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\bin\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.dll
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\bin\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.pdb
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.GeneratedMSBuildEditorConfig.editorconfig
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.AssemblyInfoInputs.cache
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.AssemblyInfo.cs
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.csproj.CoreCompileInputs.cache
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.sourcelink.json
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.dll
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\refint\tl1-tp8-2024-JavierRodriguez3.dll
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.pdb
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\tl1-tp8-2024-JavierRodriguez3.genruntimeconfig.cache
+C:\AA Facultad\Taller\tl1-tp8-2024-JavierRodriguez3\obj\Debug\net8.0\ref\tl1-tp8-2024-JavierRodriguez3.dll
